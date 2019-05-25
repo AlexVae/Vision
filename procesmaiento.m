@@ -127,6 +127,7 @@ end
  plot(shape(:,1),shape(:,2),'+','MarkerSize',10);
  disp('-----------------------------');
  disp(faces);
+ disp('Que onda amigos');
  disp('--------------------------------');
 disp(faceBound);
 
